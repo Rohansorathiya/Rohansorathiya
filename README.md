@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rohansorathiya
-- 👀 I’m interested in data structures and algos and also flutter
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on flutter and sql based projects
-- 📫 How to reach me mail or twitter or pull request
+- 👀 I’m interested in data structures and algos and also artifical intellegence
+- 🌱 I’m currently learning DSAv and machine lerarning neural networks
 
 <!---
 Rohansorathiya/Rohansorathiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
